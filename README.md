@@ -1,2 +1,2 @@
-# Angry-Birds
-A small Angry Birds demo created in visual studio code
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
